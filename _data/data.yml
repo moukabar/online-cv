@@ -42,7 +42,7 @@ sidebar:
       - item: Hiking
         link:
 
-career-profile:
+'career-profile:
     title: Career Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
@@ -50,11 +50,11 @@ career-profile:
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Second paragraph if required.'
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Global Operations
+      university: Hong Kong University of Science and Technology
+      time: 2020 - today
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -63,9 +63,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Economics
+      university: Humboldt Universität zu Berlin
+      time: 2016 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -75,9 +75,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Intern | Product Management - Investment Products
+      time: Feb 2020 - Aug 2020
+      company: Raisin GmbH, Berlin
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -90,9 +90,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Intern | Corporate Restructuring
+      time: Mar 2019 - Jun 2019
+      company: KPMG Deutschland, Berlin
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -101,7 +101,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
+'    - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
       details: |
@@ -111,8 +111,9 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
           - Bullet point
-          - Bullet point
-projects:
+          - Bullet point'
+
+'projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
@@ -159,7 +160,7 @@ publications:
       - title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        conference: "Comm. ACM 4 (1961), 51–55"'
 
 skills:
     title: Skills &amp; Proficiency
