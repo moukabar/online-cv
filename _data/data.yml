@@ -60,11 +60,13 @@ education:
         Learned fundamentals of Macroeconomics, Econometrics and Quantitative Methods. Focused on Accounting and Finance in electives.
           - Received Henrike und Dr. Thomas Kurze Award for graduating as valedictorian of the winter 2019/2020 cohort
           - Bachelor's thesis title: Timing of IFRS Goodwill Impairment: Does the auditor matter?
+
 experiences:
     - role: Intern | Product Management - Investment Products
       time: Feb 2020 - Aug 2020
       company: Raisin GmbH, Berlin
       details: |
+        Test
           - Revised internal tests of historical investment portfolio performance (speed and accuracy improvements)
           - Created visuals and analyses for webinar series to inform customers about buy-and-hold investing
           - Collaborated with Communications Department to provide journalists and other external stakeholders with up-to-date portfolio performance data during COVID-19 crisis
@@ -75,6 +77,7 @@ experiences:
       time: Mar 2019 - Jun 2019
       company: KPMG Deutschland, Berlin
       details: |
+        Test
           - Verified weekly liquidity numbers and liquidity forecasts of an international industrial firm in the context of an Independent Business Review
           - Quantified possible savings from proposed restructuring measures such as switching suppliers, streamlining product range and selling underused assets
           - Researched background information to support going-concern analysis of a healthcare firm
@@ -85,6 +88,7 @@ experiences:
       time: Apr 2018 - Oct 2019
       company: Humboldt-Universität zu Berlin
       details: |
+        Test
           - Taught Financial Accounting and Management Accounting tutorials
           - Compiled data for research projects from databases (S&P Capital IQ, TR Eikon) and by analyzing firm publications
           - Analyzed datasets and scripts in R to support research and teaching of doctoral candidates
