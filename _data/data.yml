@@ -58,7 +58,7 @@ education:
           - Bullet point
           - Bullet point
     - degree: BSc in Economics
-      university: Humboldt Universität zu Berlin
+      university: Humboldt-Universität zu Berlin
       time: 2016 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -87,6 +87,18 @@ experiences:
     - role: Intern | Corporate Restructuring
       time: Mar 2019 - Jun 2019
       company: KPMG Deutschland, Berlin
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+
+    - role: Student Assistant | Institute of Accounting and Auditing
+      time: Apr 2018 - Oct 2019
+      company: Humboldt-Universität zu Berlin
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
