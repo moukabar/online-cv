@@ -39,17 +39,16 @@ sidebar:
       - item: Public Policy
         link:
 
-      - item: Hiking
+      - item: Hiking, Badminton, Squash
         link:
 
-career-profile:
-    title:
-    summary:
+      - item: Strategy Games & Classic Movies
+        link:
 
 education:
     - degree: MSc in Global Operations
       university: Hong Kong University of Science and Technology
-      time: 2020 - today
+      time: 2020 - Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -104,9 +103,10 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Epis Think Tank e.V.
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Co-Founder | Epis Think Tank e.V.
+        link: https://www.epis-thinktank.de
+        tagline: "Epis is a non-partisan organization that strives to connect young people with different political views.
+        From 2018 until 2020, I served on the board after developing the idea together with two friends in previous years."
 
 skills:
     title: Skills &amp; Proficiency
