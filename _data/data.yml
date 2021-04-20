@@ -66,29 +66,32 @@ experiences:
       time: Feb 2020 - Aug 2020
       company: Raisin GmbH, Berlin
       details: |
-        - Revised internal tests of historical investment portfolio performance (speed and accuracy improvements)
-        - Created visuals and analyses for webinar series to inform customers about buy-and-hold investing
-        - Collaborated with Communications Department to provide journalists and other external stakeholders with up-to-date portfolio performance data during COVID-19 crisis
-        - Developed internal documentation on recurring data requests to facilitate knowledge transfer between staff members
-        - Implemented change of external data provider
+        Test
+          - Revised internal tests of historical investment portfolio performance (speed and accuracy improvements)
+          - Created visuals and analyses for webinar series to inform customers about buy-and-hold investing
+          - Collaborated with Communications Department to provide journalists and other external stakeholders with up-to-date portfolio performance data during COVID-19 crisis
+          - Developed internal documentation on recurring data requests to facilitate knowledge transfer between staff members
+          - Implemented change of external data provider
 
     - role: Intern | Corporate Restructuring
       time: Mar 2019 - Jun 2019
       company: KPMG Deutschland, Berlin
       details: |
-        - Verified weekly liquidity numbers and liquidity forecasts of an international industrial firm in the context of an Independent Business Review
-        - Quantified possible savings from proposed restructuring measures such as switching suppliers, streamlining product range and selling underused assets
-        - Researched background information to support going-concern analysis of a healthcare firm
-        - Created supporting material for approaching a possible key account in the public sector
-        - Received company award (KPMG highQ) for interns with outstanding performance
+        Test
+          - Verified weekly liquidity numbers and liquidity forecasts of an international industrial firm in the context of an Independent Business Review
+          - Quantified possible savings from proposed restructuring measures such as switching suppliers, streamlining product range and selling underused assets
+          - Researched background information to support going-concern analysis of a healthcare firm
+          - Created supporting material for approaching a possible key account in the public sector
+          - Received company award (KPMG highQ) for interns with outstanding performance
 
     - role: Student Assistant | Institute of Accounting and Auditing
       time: Apr 2018 - Oct 2019
       company: Humboldt-Universität zu Berlin
       details: |
-        - Taught Financial Accounting and Management Accounting tutorials
-        - Compiled data for research projects from databases (S&P Capital IQ, TR Eikon) and by analyzing firm publications
-        - Analyzed datasets and scripts in R to support research and teaching of doctoral candidates
+        Test
+          - Taught Financial Accounting and Management Accounting tutorials
+          - Compiled data for research projects from databases (S&P Capital IQ, TR Eikon) and by analyzing firm publications
+          - Analyzed datasets and scripts in R to support research and teaching of doctoral candidates
 
 projects:
     title: Volunteering
